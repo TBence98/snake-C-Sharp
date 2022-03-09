@@ -1,0 +1,13 @@
+C:\Users\Tullner Bence\source\repos\Snake Game\Snake Game\bin\Debug\netcoreapp3.1\Snake Game.exe
+C:\Users\Tullner Bence\source\repos\Snake Game\Snake Game\bin\Debug\netcoreapp3.1\Snake Game.deps.json
+C:\Users\Tullner Bence\source\repos\Snake Game\Snake Game\bin\Debug\netcoreapp3.1\Snake Game.runtimeconfig.json
+C:\Users\Tullner Bence\source\repos\Snake Game\Snake Game\bin\Debug\netcoreapp3.1\Snake Game.runtimeconfig.dev.json
+C:\Users\Tullner Bence\source\repos\Snake Game\Snake Game\bin\Debug\netcoreapp3.1\Snake Game.dll
+C:\Users\Tullner Bence\source\repos\Snake Game\Snake Game\bin\Debug\netcoreapp3.1\Snake Game.pdb
+C:\Users\Tullner Bence\source\repos\Snake Game\Snake Game\obj\Debug\netcoreapp3.1\Snake Game.csprojAssemblyReference.cache
+C:\Users\Tullner Bence\source\repos\Snake Game\Snake Game\obj\Debug\netcoreapp3.1\Snake Game.AssemblyInfoInputs.cache
+C:\Users\Tullner Bence\source\repos\Snake Game\Snake Game\obj\Debug\netcoreapp3.1\Snake Game.AssemblyInfo.cs
+C:\Users\Tullner Bence\source\repos\Snake Game\Snake Game\obj\Debug\netcoreapp3.1\Snake Game.csproj.CoreCompileInputs.cache
+C:\Users\Tullner Bence\source\repos\Snake Game\Snake Game\obj\Debug\netcoreapp3.1\Snake Game.dll
+C:\Users\Tullner Bence\source\repos\Snake Game\Snake Game\obj\Debug\netcoreapp3.1\Snake Game.pdb
+C:\Users\Tullner Bence\source\repos\Snake Game\Snake Game\obj\Debug\netcoreapp3.1\Snake Game.genruntimeconfig.cache
